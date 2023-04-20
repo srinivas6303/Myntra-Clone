@@ -1,0 +1,54 @@
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items:center ;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+
+}
+
+
+.r{
+   align-content: left;
+   padding-left: 20px;
+   font-size: 13px;
+}
+
+
+.list{
+    padding: 0px 0px 0px 10px;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.homeimg{
+    margin: 0px 0px 0px -35px;
+    width: 92vw;
+    
+}
+.flex_wrap{
+    width: 185px;
+    flex-wrap: wrap;
+   padding: 40px 4px 1px 0px;
+}
+
+.copy{
+  
+    margin: -7px 0px 3px -34px;
+    padding: 0px -3px 20px -70px;
+}
+
+.top2{
+    padding: 362px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
