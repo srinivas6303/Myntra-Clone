@@ -3,10 +3,10 @@ MYNTRA CLONE
 
 Table of Contents
 -----------------
-Project Overview
-Overview of Myntra
-Technologies Used
-File Structure
+Project Overview,
+Overview of Myntra,
+Technologies Used,
+File Structure.
 
 Project Overview
 ----------------
